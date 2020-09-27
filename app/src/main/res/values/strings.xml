@@ -5,4 +5,21 @@
     <string name="labelTelefono">Teléfono</string>
     <string name="labelEmail">E-mail</string>
     <string name="labelDescripcion">Descripción</string>
+    <string name="labelDatePicker">mm/dd/yyyy</string>
+    <string name="labelForm">Registrar contacto</string>
+    <string name="labelSiguiente">Siguiente</string>
+    <string name="labelEditar">Editar</string>
+
+    <string name="confirmarDatos">Confirmar Datos</string>
+
+
+    <string name="keyContacto">Contacto</string>
+
+
+    <string name="labelInfoNombreCompleto">Nombre:</string>
+    <string name="labelInfoTelefono">Teléfono:</string>
+    <string name="labelInfoEmail">E-mail:</string>
+    <string name="labelInfoDescripcion">Descripción:</string>
+    <string name="labeInfolFecha">Fecha de cumpleaños:</string>
+
 </resources>
