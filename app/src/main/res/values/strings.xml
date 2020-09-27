@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppContactos</string>
+
+    <string name="labelNombreCompleto">Nombre completo</string>
+    <string name="labelTelefono">Teléfono</string>
+    <string name="labelEmail">E-mail</string>
+    <string name="labelDescripcion">Descripción</string>
+</resources>
